@@ -1,1 +1,4 @@
 git init -for initialising git repo
+git add -A
+git commit -m "msg"
+git status
