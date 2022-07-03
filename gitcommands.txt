@@ -1,4 +1,4 @@
-git init -for initialising git repo
+git init -for initialising git repository
 git add -A
 git commit -m "msg"
 git status
