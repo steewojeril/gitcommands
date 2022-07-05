@@ -2,3 +2,5 @@ git init -for initialising git repository
 git add -A
 git commit -m "msg"
 git status
+git remote -v
+git remote add name path
